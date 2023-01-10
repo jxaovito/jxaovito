@@ -1,12 +1,30 @@
-# salve salve familia
+<h1 align="center"> Olá mundo! 👋 </h1>
+
+### Sobre mim
+>- 😀 Sou João Vitor, tenho 18 anos e moro em Joinville, Santa Catarina;
+>- 👨‍💻 Finalizei o curso técnico "Informática para Internet" no Senac Joinville, tendo uma carga horária de 600 horas em programação Fullstack;
+>- 🖤 Sou fissurado por tecnologia e tenho o desejo de trabalhar nessa área.
 
 <div align="center">
-  <a href="https://github.com/danisantosss">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jxaovito&show_icons=true&theme=light&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jxaovito&layout=compact&langs_count=7&theme=light"/>
+  <a href="https://github.com/jxaovito">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=danisantosss&show_icons=true&theme=light&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danisantosss&layout=compact&langs_count=7&theme=light"/>
 </div>
 
-### Hi there 👋
+<div align="center">
+  <h3>Contato</h3>
+  <a href = "mailto:joaovitorvieiradeborba@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"         target="_blank"></a>
+  <a href="https://www.linkedin.com/in/jxaovito/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://instagram.com/jxaovito" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+</div>
+
+
+<div align="center">
+
+  ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
+  
+</div>
+
 
 <!--
 **jxaovito/jxaovito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
