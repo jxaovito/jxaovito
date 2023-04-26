@@ -3,7 +3,7 @@
 ### Sobre mim
 >- 😀 Sou João Vitor, tenho 18 anos e moro em Joinville, Santa Catarina;
 >- 👨‍💻 Atualmente estou cursando Análise e Desenvolvimento de Sistemas na Unisociesc Joinville e finalizei o curso técnico "Informática para Internet" no Senac Joinville em 2022, tendo uma carga horária de 600 horas em programação Fullstack;
->- 🖤 Sou fissurado por tecnologia e tenho o desejo de trabalhar nessa área.
+>- 🖤 Sou fissurado por tecnologia e design, não meço esforços para aprender e, no momento, tenho foco no front end.
 
 <div align="center">
   <a href="https://github.com/jxaovito">
