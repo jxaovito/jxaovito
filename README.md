@@ -1,4 +1,4 @@
-<h1 align="center"> Olá mundo! 👋 </h1>
+
 
 ### Sobre mim
 >- 😀 Sou João Vitor, tenho 18 anos e moro em Joinville, Santa Catarina;
@@ -19,11 +19,6 @@
 </div>
 
 
-<div align="center">
-
-  ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
-  
-</div>
 
 
 <!--
