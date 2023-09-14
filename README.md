@@ -11,12 +11,6 @@ Sigo em constante aprendizado, com foco no desenvolvimento para web </br>
 </br>
 
 <div align="center">
-  <a href="https://github.com/jxaovito">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jxaovito&show_icons=true&theme=light&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jxaovito&layout=compact&langs_count=7&theme=light"/>
-</div>
-
-<div align="center">
   <h3>Contato</h3>
   <a href = "mailto:joaovitorvieiradeborba@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"         target="_blank"></a>
   <a href="https://www.linkedin.com/in/jxaovito/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
