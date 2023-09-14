@@ -1,10 +1,16 @@
 
 
-### Sobre mim
->- Me chamo João Vitor, tenho 18 anos e moro em Joinville, Santa Catarina;
->- 1º Semestre - Análise e desenvolvimento de sistemas na Unisociesc Joinville;
->- Concluído - Técnico em informática para web no Senac Joinville;
->- Sou fissurado por tecnologia e design e não meço esforços para aprender e mudar.
+# Sobre mim
+2º Semestre - Análise e desenvolvimento de sistemas na Unisociesc Joinville;
+Concluído - Técnico em informática para web no Senac Joinville;
+Sigo em constante aprendizado, com foco no desenvolvimento para web
+
+### Tenho experiência com:
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" />
+
 
 <div align="center">
   <a href="https://github.com/jxaovito">
