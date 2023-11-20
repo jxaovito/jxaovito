@@ -1,3 +1,5 @@
+don't leave broken windows
+
 ### Sobre mim
 2º Semestre - Análise e desenvolvimento de sistemas na Unisociesc Joinville; </br>
 Concluído - Técnico em informática para web no Senac Joinville; </br>
