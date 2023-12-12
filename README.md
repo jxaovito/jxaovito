@@ -3,7 +3,7 @@ don't leave broken windows
 ### Sobre mim
 2º Semestre - Análise e desenvolvimento de sistemas na Unisociesc Joinville; </br>
 Concluído - Técnico em informática para web no Senac Joinville; </br>
-Sigo em constante aprendizado, com foco no desenvolvimento para web </br>
+Sigo em constante aprendizado, trabalhando sempre em novos projetos</br>
 
 ### Linguagens/Tecnologias
 #### Tecnologias que tenho domínio e experiência:
