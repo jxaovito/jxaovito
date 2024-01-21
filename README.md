@@ -6,8 +6,8 @@ i solve people problems by designing, implementing, and maintaining scalable web
 
 certified in a technical course at Senac and currently studying systems analysis and development
 
-<b>medium posts:</b>
-<a href="https://medium.com/@jxaovito">medium</a>
+find me on the web:<br/>
+<a href="mailto:joaovitorvieiradeborba@gmail.com">mail</a>,<a href="instagram.com/jxaovito">instagram</a>, <a href="https://medium.com/@jxaovito">medium posts</a>
 
 <div align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="35" height="35" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="35" height="35" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="35" height="35" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="35" height="35" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="35" height="35" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="35" height="35" />
