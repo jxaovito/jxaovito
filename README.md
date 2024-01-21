@@ -6,7 +6,7 @@ i solve people problems by designing, implementing, and maintaining scalable web
 
 certified in a technical course at Senac and currently studying systems analysis and development
 
-find me on the web:<br/>
+<b>find me on the web:</b><br/>
 <a href="mailto:joaovitorvieiradeborba@gmail.com">mail</a>, <a href="instagram.com/jxaovito">instagram</a>, <a href="https://medium.com/@jxaovito">medium posts</a>
 
 <div align="center">
