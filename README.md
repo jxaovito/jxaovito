@@ -4,7 +4,7 @@ don't leave broken windows
 
 i solve people problems by designing, implementing, and maintaining scalable web solutions
 
-certified in a technical course at Senac and currently studying systems analysis and development at Unisociesc
+certified in a technical course at Senac and currently studying systems analysis and development 
 
 <b>find me on the web:</b><br/>
 <a href="mailto:joaovitorvieiradeborba@gmail.com">mail</a>, <a href="instagram.com/jxaovito">instagram</a>, <a href="https://medium.com/@jxaovito">medium posts</a>
